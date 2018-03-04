@@ -1,2 +1,3 @@
 # blog
-一些胡言乱语
+
+* [关于发小F的记忆](https://github.com/shihujiang/blog/issues/1)
